@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "635387987267",
+    "project_id": "codefactoryproject",
+    "storage_bucket": "codefactoryproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635387987267:android:35e79dbb0178a517ee5bf6",
+        "android_client_info": {
+          "package_name": "com.example.codefactory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635387987267-3dnu4552vk6m59uq395dfnfqipntj5hp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.codefactory",
+            "certificate_hash": "ae4a8abb7c94096228d3318dddf5ebdb412ed660"
+          }
+        },
+        {
+          "client_id": "635387987267-e05of8th2nps0sbgl2cgi8t2ppmdvhft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4twe0jYlBWTXciS8GLefd65X-eRIXDig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635387987267-e05of8th2nps0sbgl2cgi8t2ppmdvhft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
