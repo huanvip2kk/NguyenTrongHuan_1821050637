@@ -11,21 +11,13 @@ Giảng viên hướng dẫn: Trần Trung Chuyên
 
 2.	Những màn hình đã làm được
 a.	Splash screen
- 
 b.	Intro screen
-  
 c.	Login view
- 
 d.	Signup view
- 
 e.	Home view
- 
 f.	Setting view
- 
 g.	Course view
- 
-h.	Photo search view
-   
+h.	Photo search view 
 i.	Photo firebase view
   
 3.	Những chức năng đã làm được trong dự án
