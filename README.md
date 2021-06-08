@@ -10,35 +10,35 @@ Giảng viên hướng dẫn: Trần Trung Chuyên
 -	Mức độ hoàn thành: 40%
 
 2.	Những màn hình đã làm được
-a.	Splash screen
-b.	Intro screen
-c.	Login view
-d.	Signup view
-e.	Home view
-f.	Setting view
-g.	Course view
-h.	Photo search view 
-i.	Photo firebase view
+- Splash screen
+- Intro screen
+- Login view
+- Signup view
+- Home view
+- Setting view
+- Course view
+- Photo search view 
+- Photo firebase view
   
 3.	Những chức năng đã làm được trong dự án
-a.	Chức năng đăng nhập, đăng ký
-	Chức năng đăng nhập với firebase
-•	Đăng nhập bằng gmail
-•	Đăng nhập ẩn danh
-•	Đăng nhập bằng google
-	Chức năng đăng ký với firebase
-b.	Chức năng khóa học
-	Thêm khóa học
-	Sửa khóa học
-	Xóa khóa học
-c.	Chức năng tìm kiếm ảnh
-	Tìm kiếm
-	Xem thông tin chi tiết của ảnh
-	Tìm kiếm ảnh thông qua thẻ tag
-d.	Chức năng lưu trữ ảnh lên firebase
-	Thêm ảnh
-	Xóa ảnh
-	Xem ảnh
+- Chức năng đăng nhập, đăng ký
+  + Chức năng đăng nhập với firebase
+    •	Đăng nhập bằng gmail
+    •	Đăng nhập ẩn danh
+    •	Đăng nhập bằng google
+  + Chức năng đăng ký với firebase
+- Chức năng khóa học
+  + Thêm khóa học
+  + Sửa khóa học
+  + Xóa khóa học
+- Chức năng tìm kiếm ảnh
+  + Tìm kiếm
+  + Xem thông tin chi tiết của ảnh
+  + Tìm kiếm ảnh thông qua thẻ tag
+- Chức năng lưu trữ ảnh lên firebase
+  + Thêm ảnh
+  +  Xóa ảnh
+  +Xem ảnh
 
 4.	Chức năng đang xây dựng và sẽ xây dựng trong tương lai
 -	Thêm chức năng mua khóa học
